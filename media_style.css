@@ -1,0 +1,278 @@
+@media screen and (min-width: 1451px) and (max-width: 1724px) {
+    .section1__center,
+    .section2__center,
+    .section3__center{
+        width: 72%;
+    }
+}
+@media screen and (max-width: 1450px) {
+    .section1__center,
+    .section2__center,
+    .section3__center{
+        width: 80%;
+    }
+}
+@media screen and (max-width: 1296px) {
+    .blockLR__L div{
+        width: 80%;
+    }
+}
+@media screen and (max-width: 1294px) {
+    .menu__buttons > div{
+        margin: 0 2% 0 0;
+    }
+    .logos {
+        margin: 180px 0 0 0;
+    }
+    .text1,
+    .text2,
+    .text2 span{
+        font-size: 50px;
+    }
+}
+@media screen and (max-width: 1230px) {
+    .cadre object{
+        margin: 0 0 67px 0;
+    }
+}
+@media screen and (max-width: 1188px) {
+    .form input[type="text"]{
+        width: 394px;
+    }
+    .section1{
+        height: 900px;
+    }
+    .section2{
+        height: 665px;
+    }
+}
+@media screen and (max-width: 1167px) {
+    .blockLR__R div{
+        margin: -44px 0 0 0;
+    }
+}
+@media screen and (max-width: 1149px) {
+    .menu__buttons > div {
+        margin: 0 1% 0 0;
+    }
+}
+@media screen and (min-width: 1034px) and (max-width: 1089px) {
+    .menu__buttons{
+        width: 87%;
+    }
+}
+@media screen and (max-width: 1033px) {
+    .menu__buttons{
+        text-align: center;
+    }
+}
+@media screen and (max-width: 972px) {
+    .blockLR__L div{
+        margin: -33px 0 0 0;
+    }
+}
+@media screen and (max-width: 952px) {
+    .blockLR__R div{
+        margin: -55px 0 0 0;
+    }
+}
+@media screen and (max-width: 940px) {
+    .cadre object{
+        margin: 0 0 56px 0;
+    }
+
+}
+@media screen and (max-width: 938px) {
+    .form input[type="text"]{
+        width: 397px;
+    }
+    .form input[type="submit"]{
+        width: 185px;
+    }
+    .section1{
+        height: 800px;
+    }
+    .section2{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 835px) {
+    .cadre object{
+        margin: 0 0 50px 0;
+    }
+}
+@media screen and (max-width: 820px) {
+    .form input[type="text"]{
+        width: 494px;
+    }
+}
+@media screen and (max-width: 750px) {
+    .menu__buttons{
+        float: none;
+        width: 100%;
+    }
+    .menu__logo{
+        display: block;
+        text-align: center;
+        margin: 0 0 10px 0;
+    }
+    .logos {
+        margin: 100px 0 0 0;
+    }
+    .text1,
+    .text2,
+    .text2 span{
+        font-size: 25px;
+    }
+    .section2__center{
+        padding: 30px 0 0 0;
+    }
+    .text4 {
+        margin: 10px 0 0 0;
+    }
+    .section2{
+        height: 495px;
+    }
+}
+@media screen and (max-width: 715px) {
+    .form input[type="text"]{
+        width: 394px;
+    }
+    .section1{
+        height: 700px;
+    }
+    .cadre object{
+        margin: 0 0 40px 0;
+    }
+}
+@media screen and (max-width: 712px) {
+    .blockLR__L{
+        float: none;
+        width: 100%;
+        margin: 0 0 60px 0;
+    }
+    .blockLR__L div{
+        width: 60%;
+        top: 25%;
+    }
+    .blockLR__R{
+        float: none;
+        width: 100%;
+        margin: 0;
+    }
+    .blockLR__R div{
+        top: 25%;
+    }
+    .section3__center{
+        padding: 40px 0 0 0;
+    }
+}
+@media screen and (max-width: 654px) {
+    .macbook{
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .macbook img{
+        margin: 0;
+        width: 80%;
+    }
+    .cadre{
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .cadre object {
+        width: 54%;
+        margin: 0;
+    }
+    .cadre__blocks > div{
+        top: 8px;
+        margin: 0 0 7px 0;
+    }
+    .section2{
+        height: 713px;
+    }
+}
+@media screen and (max-width: 495px) {
+    .blockLR__R div{
+        top: 15px;
+    }
+}
+@media screen and (max-width: 485px) {
+    .cadre object {
+        width: 70%;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 580px) {
+    .form input[type="text"]{
+        width: 294px;
+    }
+    .section1{
+        height: 650px;
+    }
+}
+@media screen and (max-width: 572px) {
+    .blockLR__R div{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 560px) {
+    .cadre object {
+        width: 63%;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 455px) {
+    .form input[type="text"]{
+        width: 213px;
+    }
+    .form input[type="submit"]{
+        width: 190px;
+    }
+    .form{
+        margin: 35px 0 0 0;
+    }
+    .cadre object{
+        width: 70%;
+    }
+}
+@media screen and (max-width: 431px) {
+    .blockLR__L div {
+        width: 77%;
+    }
+}
+@media screen and (max-width: 430px) {
+    .cadre object {
+        width: 80%;
+        margin: 0;
+    }
+    .cadre__blocks > div{
+        margin: 0 0 10px 0;
+    }
+    .cadre__blocks > div > div:nth-child(2){
+        font-size: 14px;
+    }
+    .section3__center{
+        padding: 20px 0 0 0;
+    }
+}
+@media screen and (max-width: 404px) {
+    .blockLR__R div{
+        top: 5px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .form input[type="text"]{
+        width: 190px;
+    }
+    .section1{
+        height: 600px;
+    }
+}
+@media screen and (max-width: 336px) {
+    .blockLR__L div{
+        width: 90%;
+    }
+}

@@ -1,0 +1,380 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.allArea{
+    width: 100%;
+    height: 6223px;
+}
+
+/*section1---------------------------------------------------------------------*/
+.section1{
+    background: url("img/section1_bg.jpg") no-repeat center bottom;
+    height: 1080px;
+}
+.section1__center{
+    margin: 0 auto;
+    color: white;
+    width: 60%;
+    padding: 22px 0 0 0;
+}
+.menu{
+
+}
+.menu__logo{
+    display: inline-block;
+}
+.menu__logoImg{
+    fill: #ffba00;
+    width: 37px;
+    height: 30px;
+    display: inline-block;
+}
+.menu__logoImg > svg{
+    margin: 0 0 -6px 0;
+}
+.menu__logoText{
+    display: inline-block;
+}
+.menu__logoText > div:nth-child(1){
+    font-family: Montserrat-Light, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #ffba00;
+    margin: 0 0 -3px 0;
+}
+.menu__logoText > div:nth-child(2){
+    font-family: Montserrat-Bold, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.menu__buttons{
+    width: 80%;
+    float: right;
+    margin: 8px 0 0 0;
+    text-align: right;
+}
+.menu__buttons > div{
+    font-size: 14px;
+    font-family: Montserrat-Light, "Open Sans", Helvetica, Arial, sans-serif;
+    margin: 0 4% 0 0;
+    display: inline-block;
+}
+.menu__buttons > div:last-child{
+    margin: 0;
+}
+.menu__button{
+
+}
+.menu__buttons > div:hover{
+    border-bottom: 2px solid #684d07;
+    color: #ffba00;
+    cursor: pointer;
+}
+
+.logos{
+    text-align: center;
+    margin: 290px 0 0 0;
+}
+.logos > div{
+    display: inline-block;
+    margin: 0 26px 0 0;
+}
+.logos > div:last-child{
+    margin: 0;
+}
+.logos img,
+.logos object{
+    width: 60px;
+    height: 60px;
+}
+
+.text1{
+    margin: 20px 0 0 0;
+    text-align: center;
+    font-size: 72px;
+    font-family: Montserrat-Light, "Open Sans", Helvetica, Arial, sans-serif;
+    color: #ffba00;
+}
+.text2{
+    text-align: center;
+    font-size: 72px;
+    font-family: Montserrat-Light, "Open Sans", Helvetica, Arial, sans-serif;
+}
+.text2 span{
+    font-size: 72px;
+    font-family: Montserrat-Bold, "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #ffba00;
+}
+
+.form{
+    height: 56px;
+    text-align: center;
+    margin: 65px 0 0 0;
+}
+.form input[type="submit"]{
+    margin: 0 6px 0 0;
+    cursor: pointer;
+    width: 279px;
+    height: 56px;
+    background-color: #ffba00;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: Montserrat-Bold, "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
+.form__text{
+    display: inline-block;
+}
+.form__blockWallet1{
+    position: absolute;
+}
+.form__blockWallet2{
+    height: 56px;
+    width: 67px;
+    background: #ffffff;
+    position: relative;
+    top: 7px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.form__wallet{
+    fill: #ffba00;
+    width: 37px;
+    height: 30px;
+    position: relative;
+    top: 9px;
+    left: 13px;
+}
+.form__stick{
+    height: 31px;
+    width: 2px;
+    background-color: #eaeaea;
+    position: relative;
+    top: -37px;
+    left: 63px;
+}
+.form input[type="text"]{
+    margin: 0 0 0 67px;
+    width: 594px;
+    height: 56px;
+    position: relative;
+    top: 7px;
+    border: none;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 40px;
+    outline: none;
+}
+/*section1---------------------------------------------------------------------*/
+
+/*section2---------------------------------------------------------------------*/
+.section2{
+    background: url("img/section2_bg.jpg") no-repeat center bottom;
+    height: 713px;
+}
+.section2__center{
+    margin: 0 auto;
+    color: white;
+    width: 60%;
+    padding: 90px 0 0 0;
+}
+.text3{
+    font-family: Montserrat-Bold, "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffba00;
+    text-align: center;
+}
+.text4{
+    margin: 30px 0 0 0;
+    font-family: Montserrat-Light, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #8c8c8c;
+    text-align: center;
+}
+
+.blockMC{
+    width: 100%;
+    margin: 50px 0 0 0;
+}
+.macbook{
+    display: inline-block;
+    width: 50%;
+}
+.macbook img{
+    width: 111%;
+    margin: 0 0 0 -13%;
+}
+.cadre{
+    display: inline-block;
+    width: 49%;
+}
+.cadre object{
+    width: 100%;
+    margin: 0 0 77px 0;
+}
+.cadre__blocks{
+    position: absolute;
+}
+.cadre__blocks > div{
+    position: relative;
+    top: 100px;
+    left: 75%;
+    margin: 0 0 15px 0;
+    text-align: left;
+}
+.cadre__blocks > div > div:nth-child(1){
+    display: inline-block;
+}
+
+.cadre__blocks > div > div:nth-child(1),
+.cadre__blocks > div > div:nth-child(1) > svg{
+    width: 18px;
+    height: 18px;
+    fill: #fdc632;
+    margin: 0 11px -4px 0;
+}
+.cadre__blocks > div > div:nth-child(2){
+    color: #181616;
+    display: inline-block;
+    font-family: Montserrat-Light, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+/*section2---------------------------------------------------------------------*/
+
+/*section3---------------------------------------------------------------------*/
+.section3{
+    background-color: #ffffff;
+    width: 100%;
+    height: 1012px;
+}
+.section3__center{
+    margin: 0 auto;
+    color: white;
+    width: 60%;
+    padding: 90px 0 0 0;
+}
+.text5{
+    font-family: Montserrat-Bold, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    color: #ffba00;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 0 15px 0;
+}
+.text6{
+    font-family: Montserrat-Light, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #767676;
+    text-align: center;
+}
+.blockLR{
+    margin: 45px 0 0 0;
+}
+.blockLR__L{
+    width: 49%;
+    height: 125px;
+    background-color: #01a7a5;
+    float: left;
+    text-align: -webkit-center;
+    text-align: -moz-center;
+    text-align: -o-center;
+    text-align: -ms-center;
+}
+.blockLR__L div{
+    font-family: Montserrat-Bold, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    width: 60%;
+    position: relative;
+    top: 50%;
+    margin: -22px 0 0 0;
+}
+.blockLR__R{
+    width: 49%;
+    height: 125px;
+    background-color: #ffba00;
+    float: right;
+    text-align: -webkit-center;
+    text-align: -moz-center;
+    text-align: -o-center;
+    text-align: -ms-center;
+}
+.blockLR__R div{
+    font-family: Montserrat-Bold, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    width: 78%;
+    position: relative;
+    top: 50%;
+    margin: -33px 0 0 0;
+}
+/*section3---------------------------------------------------------------------*/
+
+/*section4---------------------------------------------------------------------*/
+.section4{
+    background-color: #f9f9f9;
+    width: 100%;
+    height: 830px;
+}
+.section4__center{
+    margin: 0 auto;
+    color: white;
+    width: 60%;
+}
+/*section4---------------------------------------------------------------------*/
+
+/*section5---------------------------------------------------------------------*/
+.section5{
+    background-color: #ffffff;
+    width: 100%;
+    height: 1789px;
+}
+.section5__center{
+    margin: 0 auto;
+    color: white;
+    width: 60%;
+}
+/*section5---------------------------------------------------------------------*/
+
+/*section6---------------------------------------------------------------------*/
+.section6{
+    background-color: #f9f9f9;
+    width: 100%;
+    height: 578px;
+}
+.section6__center{
+    margin: 0 auto;
+    color: white;
+    width: 60%;
+}
+/*section6---------------------------------------------------------------------*/
+
+/*section7---------------------------------------------------------------------*/
+.section7{
+    background-color: #ffffff;
+    width: 100%;
+    height: 172px;
+}
+.section7__center{
+    margin: 0 auto;
+    color: white;
+    width: 60%;
+}
+/*section7---------------------------------------------------------------------*/
+
+/*section8---------------------------------------------------------------------*/
+.section8{
+    background-color: #252525;
+    width: 100%;
+    height: 49px;
+}
+.section8__center{
+    margin: 0 auto;
+    color: white;
+    width: 60%;
+}
+/*section8---------------------------------------------------------------------*/
